@@ -50,7 +50,7 @@ class CustomerAdmin(admin.ModelAdmin):
 ![output](exp2.png)
 
 ### program output
-![output](theia.png)
+
 
 
 ## RESULT
